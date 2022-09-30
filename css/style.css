@@ -1,0 +1,30 @@
+body {background-image:url("../../Aula 1/images/plano da fuga.webp");background-position:top left;background-repeat: no-repeat;color:black; text-align:start}
+h2 {color:rgba(0, 0, 0, 0.938);font-size:35px}
+h3 {font-size:25px;color:rgba(245, 0, 0, 0.521)}
+a {color:black;font-size:55px;}
+#fuga {
+    color:black;
+    /*padding: 40px;*/
+    margin: 40px; 
+}
+.sucesso {
+    color:black;
+    border-bottom:20px;
+    border-style: groove;
+    border-spacing:20px;
+    border-color: black;
+    font-weight: bold;
+    font-size: 20px;
+
+}
+#site {
+    height: 250px;
+    width: 550px;
+
+}
+.espaco {
+    margin-top: 50px;
+}
+.centro {
+    text-align:center;
+}
